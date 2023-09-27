@@ -1,0 +1,124 @@
+[
+    {
+    "id":1,
+    "nombre":"pizza pequena",
+    "precio":10,
+    "categoria":1
+    },
+    {
+    "id":2,
+    "nombre":"pizaza mediana",
+    "precio":6,
+    "categoria":4
+     },
+     {
+         "id":3,
+        "nombre":"pizaza grande",
+        "precio":6,
+        "categoria":4
+     },
+     {
+        "id":4,
+        "nombre":"pizaza mediana",
+        "precio":6,
+        "categoria":4
+    },
+    {
+        "id":5,
+        "nombre":"pizaza mediana",
+        "precio":6,
+        "categoria":4
+    },
+    {
+        "id":6,
+        "nombre":"pizaza mediana",
+        "precio":6,
+        "categoria":4
+     },
+     {
+        "id":7,
+        "nombre":"pizaza mediana",
+        "precio":6,
+        "categoria":4
+    },
+    {
+        "id":8,
+        "nombre":"pizaza mediana",
+        "precio":6,
+        "categoria":4
+    },
+    {
+        "id":9,
+        "nombre":"pizaza mediana",
+        "precio":6,
+        "categoria":4
+    },
+    {
+        "id":10,
+        "nombre":"pizaza mediana",
+        "precio":6,
+        "categoria":4
+    },
+    {
+        "id":11,
+        "nombre":"pizaza mediana",
+        "precio":6,
+        "categoria":4
+    },
+    {
+        "id":12,
+        "nombre":"pizaza mediana",
+        "precio":6,
+        "categoria":4
+    },
+    {
+        "id":13,
+        "nombre":"pizaza mediana",
+        "precio":6,
+        "categoria":4
+    },
+    {
+        "id":14,
+        "nombre":"pizaza mediana",
+        "precio":6,
+        "categoria":4
+   },
+   {
+    "id":15,
+    "nombre":"pizaza mediana",
+    "precio":6,
+    "categoria":4
+    },
+    {
+        "id":16,
+        "nombre":"pizaza mediana",
+        "precio":6,
+        "categoria":4
+    },
+    {
+        "id":17,
+        "nombre":"pizaza mediana",
+        "precio":6,
+        "categoria":4
+    },
+    {
+        "id":18,
+        "nombre":"pizaza mediana",
+        "precio":6,
+        "categoria":4
+    },
+    {
+        "id":19,
+        "nombre":"pizaza mediana",
+        "precio":6,
+        "categoria":4
+    },
+    {
+        "id":20,
+        "nombre":"pizaza mediana",
+        "precio":6,
+        "categoria":4
+    }
+
+
+]
